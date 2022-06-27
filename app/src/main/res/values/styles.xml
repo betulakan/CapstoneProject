@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="buttonStyle">
+        <item name="android:layout_width">343dp</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:fontFamily">@font/sourcesanssro_semibold</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="textInputStyle">
+        <item name="android:layout_width">343dp</item>
+        <item name="android:layout_height">64dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+    </style>
+
+    <style name="headerStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">14dp</item>
+        <item name="android:layout_marginTop">60dp</item>
+        <item name="android:fontFamily">@font/sourcesanssro_semibold</item>
+        <item name="android:textColor">#222222</item>
+        <item name="android:textSize">38sp</item>
+    </style>
+</resources>
